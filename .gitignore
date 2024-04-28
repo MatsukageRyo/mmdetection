@@ -1,4 +1,6 @@
 outputs
+racoon_dataset
+!racoon_dataset/dowload_dataset.sh
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
